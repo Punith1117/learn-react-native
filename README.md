@@ -9,4 +9,8 @@
 - Basic tags (View, Text, Image) and styling with css
 - File based navigation / routing (Link tag)
 - Using layout (Slot tag) to display header/footer in all pages
-- Using Stack smooth forward and backward navigation between pages
+- Using Stack for smooth forward and backward navigation between pages
+- Styling for dark and light mode using useColorScheme hook and simplifying it by creating themed components
+- Grouping routes for better organization of related routes and layout for these grouped routes
+- Using Pressable tag to create buttons, style based on states ('pressed') and handle presses
+- Tabs navigation and styling tab (tab icons, background-color, etc...)
