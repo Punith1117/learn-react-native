@@ -14,3 +14,6 @@
 - Grouping routes for better organization of related routes and layout for these grouped routes
 - Using Pressable tag to create buttons, style based on states ('pressed') and handle presses
 - Tabs navigation and styling tab (tab icons, background-color, etc...)
+- Use of SafeAreaView tag and useSafeAreaInsets hook(a better alternative)
+- Using TextInput tag to input text and using state variable to store it on change
+- Setting up connection to Appwrite for authentication
