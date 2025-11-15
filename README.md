@@ -17,3 +17,6 @@
 - Use of SafeAreaView tag and useSafeAreaInsets hook(a better alternative)
 - Using TextInput tag to input text and using state variable to store it on change
 - Setting up connection to Appwrite for authentication
+- Logging users in and out, protecting routes and redirecting to different routes using useRouter hook
+- Using ActivityIndicator tag to indicate loading
+- Creating database, table with fields in Appwrite. Creating records with user input and fetching user related records
